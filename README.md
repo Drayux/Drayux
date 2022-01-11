@@ -33,7 +33,7 @@ Sample text.<br><br>
 
 ---
 
-![test](https://drayux.com/api/profiles/sample.svg)
+![test](https://drayux.com/api/profiles/sample)
 
 ---
 
