@@ -43,7 +43,7 @@ _Additionally, I have minor experience with numerous additional languages, with 
 ⠀⠀⠀⠀> **\[C]** _A basic compiler and lexer framework._
 
 ⠀⠀― **Wizard Automatus**  
-⠀⠀⠀⠀> **\[Python]** _A Wizard101 botting interface, built off of WizSDK._
+⠀⠀⠀⠀> **\[Python]** _A Wizard101 botting interface, built off of ![WizWalker](https://github.com/StarrFox/wizwalker)._
 
 ⠀⠀― **STLView**  
 ⠀⠀⠀⠀> **\[Python]** _A simple 3D engine built with TKinter, featuring support for binary STL files._
