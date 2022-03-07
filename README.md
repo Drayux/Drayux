@@ -18,11 +18,10 @@ I tend to love about anything that offers me an intellectual challenge; from rev
 
 ⠀⠀― Virtual reality, 3D graphics, and related hardware  
 ⠀⠀― Artificial intelligence and machine learning  
-⠀⠀― Hardware and embedded systems  
+⠀⠀― Algorithms and computation theory  
 ⠀⠀― Compilers and programming languages  
-⠀⠀― Software reverse engineering  
 ⠀⠀― Human-technology integration  
-⠀⠀― Optimizing program performance through creative solutions  
+⠀⠀― Software reverse engineering   
 
 ### **<pre>LANGUAGES</pre>**
 
