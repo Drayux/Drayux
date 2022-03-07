@@ -51,6 +51,9 @@ _Additionally, I have minor experience with numerous additional languages, with 
 ⠀⠀― **Corruption Dungeon**  
 ⠀⠀⠀⠀> **\[C++]** _A top-down dungeon crawler with a focus on procedural generation._
 
+⠀⠀― **DDR Remap**  
+⠀⠀⠀⠀> **\[AutoHotKey]** _A modular keybind remapping script for unorthodox game controllers._
+
 <br>
 
 # **<pre>// CONTACT</pre>**
