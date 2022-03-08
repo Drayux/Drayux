@@ -7,7 +7,7 @@ Welcome to my Github page: This is the hub for all of my major tech projects!
  ― Donald Knuth  
 <br>
 
-I tend to love about anything that offers me an intellectual challenge; from reverse-engineering video games in the spirit of 'speedrunning,' to modifying my car, or even attempting difficult climbing routes. I am further fascinated by the way that technology can push the limits of the reality of humans; the best example of this is virtual reality. We can use mathematics to define a virtual world, and then go so far as to trick the human mind that we are in that world, with the aid of specific peripherals. The power computers have to change our reality is why I've decided to pursue a career in this field, as I am perpetually fascinated by everything that it has to offer.  
+I tend to love about anything that offers me an intellectual challenge; from reverse-engineering video games in the spirit of 'speedrunning,' to modifying my car, or even attempting difficult climbing routes. I am further fascinated by the way that technology can push the limits of the reality of humans; the best example of this is virtual reality. We can use mathematics to define a virtual world, and then go so far as to trick the human mind that we are in that world, with the aid of specific peripherals. The power that computers have to change our reality is why I've decided to pursue a career in this field, as I am perpetually fascinated by everything that it has to offer.  
 <br>
 *Currently studying at Colorado School of Mines, projected graduation in Spring 2023.*
 <br><br>
