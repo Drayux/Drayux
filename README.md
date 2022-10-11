@@ -64,8 +64,8 @@ _Additionally, I have minor experience with numerous additional languages, with 
 
 ### **<pre>EMAIL</pre>**  
 
-⠀⠀`⠀PRIMARY⠀`⠀**drayuxgaming@gmail.com**
-⠀⠀`⠀ALTERNATE⠀`⠀**vcubefinatic@gmail.com**
+⠀⠀`⠀PRIMARY⠀`⠀**liam@drayux.com**
+⠀⠀`⠀ALTERNATE⠀`⠀**drayuxgaming@gmail.com*
 ⠀⠀`⠀SCHOOL⠀`⠀**wdempsey@mines.edu**
 
 ### **<pre>SOCIAL MEDIA</pre>**
