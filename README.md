@@ -66,15 +66,14 @@ _Additionally, I have minor experience with numerous additional languages, with 
 
 ⠀⠀`⠀PRIMARY⠀`⠀**liam@drayux.com**
 ⠀⠀`⠀ALTERNATE⠀`⠀**drayuxgaming@gmail.com**
-⠀⠀`⠀SCHOOL⠀`⠀**wdempsey@mines.edu**
 
 ### **<pre>SOCIAL MEDIA</pre>**
 
 ⠀⠀`⠀LINKEDIN⠀`⠀**https://www.linkedin.com/in/drayux/**  
 ⠀⠀`⠀TWITCH⠀`⠀**https://twitch.tv/drayux/**  
 ⠀⠀`⠀YOUTUBE⠀`⠀**https://youtube.com/drayux/**  
+⠀⠀`⠀MASTODON⠀`⠀**https://mastodon.social/@drayux**  
 ⠀⠀`⠀TIKTOK⠀`⠀**https://www.tiktok.com/@drayux**  
-⠀⠀`⠀TWITTER⠀`⠀**https://twitter.com/Drayux**  
 <br>
 
 <pre>
